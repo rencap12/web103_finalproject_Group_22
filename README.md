@@ -1,8 +1,8 @@
-# [your app name here]
+# JobDash
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: Reneca Capuno
 
 🔗 Link to deployed app:
 
