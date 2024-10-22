@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: Reneca Capuno
+Designed and developed by: Reneca Capuno, Tanishq Todkar and Tripurashree Mysore Manjunatha
 
 🔗 Link to deployed app:
 
