@@ -14,7 +14,7 @@ JobDash is a comprehensive web app designed to help job seekers organize and tra
 
 ### Inspiration
 
-[text goes here]
+The inspiration for JobDash came from the challenges many job seekers face when managing multiple job applications. The process of applying to jobs, tracking deadlines, and following up can quickly become overwhelming. JobDash was created to simplify this by providing an organized, all-in-one solution that helps users stay on top of their applications and take control of their job search journey with ease and confidence.
 
 ## Tech Stack
 
