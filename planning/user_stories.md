@@ -5,6 +5,7 @@ Reference the Writing User Stories final project guide in the course portal for 
 ## Outline User Roles
 
 [👉🏾👉🏾👉🏾 Include at least at least 1, but no more than 3, user roles.]
+1. Job Seeker: A user who is actively applying for jobs and using JobDash to organize and track their job applications, monitor progress, and manage deadlines and follow-ups.
 
 ## Draft User Stories
 
