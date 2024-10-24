@@ -18,31 +18,29 @@ The inspiration for JobDash came from the challenges many job seekers face when 
 
 ## Tech Stack
 
-Frontend:
+Frontend: React.js, HTML, CSS
 
-Backend:
+Backend: Node.js, Express.js, Railway PostgreSQL, REST API
 
 ## Features
 
-### [Name of Feature 1]
+### Job Application Tracking Dashboard
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+As a user, I want to log and manage my job applications in one place, so I can easily track the positions I've applied for and monitor my job search progress.
 
 [gif goes here]
 
-### [Name of Feature 3]
+### Timeline and Status Tracking
 
-[short description goes here]
+As a user, I want to view a visual timeline of my job applications and update the status (e.g., applied, interview, offer, rejection), so I can see where I stand with each position and track my overall progress.
 
 [gif goes here]
 
-### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
+### Analytics and Filtering Tools
+
+As a user, I want to view analytics about my job search (e.g., jobs applied, interviews, success rate) and filter applications by job title, company, or status, so I can focus on specific opportunities, assess my performance, and refine my strategy.
+
+[gif goes here]
 
 ## Installation Instructions
 
