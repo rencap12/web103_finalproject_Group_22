@@ -14,11 +14,13 @@ Analytics Page
 
 ## Wireframe 1: Login Page
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+![image](https://github.com/user-attachments/assets/d070dab7-a9c4-4b87-9950-0978d1918ada)
+
 
 ## Wireframe 2: Dashboard
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+![image](https://github.com/user-attachments/assets/5a79a0f0-506d-4fe6-9c23-67471a254d8d)
+
 
 ## Wireframe 3: Application Details Page
 
