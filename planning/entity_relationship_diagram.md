@@ -31,6 +31,7 @@ Stores aggregated data about applications for tracking purposes, such as success
 | id | integer | primary key |
 | name | text | name of the shoe model |
 | ... | ... | ... | -->
-![JobDash](https://github.com/user-attachments/assets/4dc67994-bb48-4797-afd1-b5df31b92222)
 
+
+![JobDash (1)](https://github.com/user-attachments/assets/af772df4-3b87-41e5-9261-53bcfdf4b3c2)
 
