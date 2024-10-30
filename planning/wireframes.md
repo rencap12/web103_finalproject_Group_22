@@ -24,5 +24,6 @@ Analytics Page
 
 ## Wireframe 3: Application Details Page
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+![image](https://github.com/user-attachments/assets/6ea2008f-4381-4049-b120-fdcefbe73ff2)
+
 
