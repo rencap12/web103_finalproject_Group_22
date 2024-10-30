@@ -23,11 +23,14 @@ Stores reminder details for actions related to job applications, such as follow-
 Stores aggregated data about applications for tracking purposes, such as success rates and counts of various statuses.
 
 ## Add the Entity Relationship Diagram
-
+<!--
 [👉🏾👉🏾👉🏾 Include an image or images of the diagram below. You may also wish to use the following markdown syntax to outline each table, as per your preference.]
 
 | Column Name | Type | Description |
 |-------------|------|-------------|
 | id | integer | primary key |
 | name | text | name of the shoe model |
-| ... | ... | ... |
+| ... | ... | ... | -->
+![JobDash](https://github.com/user-attachments/assets/4dc67994-bb48-4797-afd1-b5df31b92222)
+
+
