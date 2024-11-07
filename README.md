@@ -30,7 +30,7 @@ Backend: Node.js, Express.js, Railway PostgreSQL, REST API
 
 - [x] As a user, I want to log and manage my job applications in one place, so I can easily track the positions I've applied for and monitor my job search progress.
 
-[gif goes here]
+![JobDash Dashboard](https://github.com/WEB103JobDash/JobDash/blob/main/client/public/assets/images/Dashboard_GIF.png?raw=true)
 
 ### Timeline of Applications
 
