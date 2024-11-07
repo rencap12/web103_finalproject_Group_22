@@ -33,8 +33,8 @@ While we've made substantial progress on the tracking dashboard, some planned fe
 
 ### Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
 
-[👉🏾👉🏾👉🏾 your answer here]
+The Timeline of Applications feature, while valuable, demands careful UI design consideration to effectively display temporal data. Since this would be displayed on the tracking dashboard, we need to ensure independence of the dashboard and timeline functionality. If the functionalities for both become too interconnected, we will reorganize and structure their interactions.
 
 ### 5. What additional support will you need in upcoming units as you continue to work on your final project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Code review support for our more complex features would ensure we're following best practices and maintaining code quality. We could also use advice on optimal state management strategies across components, particularly for handling multiple job application states.
