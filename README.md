@@ -4,7 +4,7 @@ CodePath WEB103 Final Project
 
 Designed and developed by: Reneca Capuno, Tanishq Todkar and Tripurashree Mysore Manjunatha
 
-Org Link: https://github.com/orgs/WEB103JobDash/repositories
+Org Link (Private Dev Repo): https://github.com/orgs/WEB103JobDash/repositories
 
 🔗 Link to deployed app:
 
