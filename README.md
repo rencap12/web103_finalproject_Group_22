@@ -26,9 +26,9 @@ Backend: Node.js, Express.js, Railway PostgreSQL, REST API
 
 ## Features
 
-### Job Application Tracking Dashboard
+### Job Application Tracking Dashboard 
 
-As a user, I want to log and manage my job applications in one place, so I can easily track the positions I've applied for and monitor my job search progress.
+- [x] As a user, I want to log and manage my job applications in one place, so I can easily track the positions I've applied for and monitor my job search progress.
 
 [gif goes here]
 
