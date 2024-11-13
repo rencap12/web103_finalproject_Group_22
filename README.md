@@ -44,11 +44,12 @@ As a user, I want to view analytics about my job search (e.g., jobs applied, int
 
 [gif goes here]
 
-### Filtering Tools
+### ✅ Filtering Tools
 
 As a user, I want to filter applications by job title, company, or status, so I can focus on specific opportunities and easily navigate through my applications.
 
-[gif goes here]
+![web103_filtering_m4](https://github.com/user-attachments/assets/b3b18016-ce42-4cca-8f46-8a45c69954a7)
+
 
 ### Notes for Each Application
 
