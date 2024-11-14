@@ -51,11 +51,12 @@ As a user, I want to filter applications by job title, company, or status, so I 
 ![web103_filtering_m4](https://github.com/user-attachments/assets/b3b18016-ce42-4cca-8f46-8a45c69954a7)
 
 
-### Notes for Each Application
+### ✅ Notes for Each Application
 
 As a user, I want to add personal notes to each job application (e.g., interview feedback, next steps, or job description details) so users can store relevant details for future reference.
 
-[gif goes here]
+![web103_notesForApplic_m4](https://github.com/user-attachments/assets/babb0b4c-e6ea-49ee-a997-d7643c69744b)
+
 
 ### Application Status Tracking
 
