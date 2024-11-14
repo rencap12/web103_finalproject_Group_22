@@ -38,17 +38,17 @@ As a user, I want to view a visual timeline of my job applications, so I can see
 
 [gif goes here]
 
-### Analytics Overview
+### ✅ Analytics Overview
 
 As a user, I want to view analytics about my job search (e.g., jobs applied, interviews, success rate), so I can assess my performance and track my progress over time.
 
-[gif goes here]
+![Analytics Overview](https://github.com/WEB103JobDash/JobDash/blob/main/client/public/assets/images/JobDash_analytics.gif)
 
 ### ✅ Filtering Tools
 
 As a user, I want to filter applications by job title, company, or status, so I can focus on specific opportunities and easily navigate through my applications.
 
-![web103_filtering_m4](https://github.com/user-attachments/assets/b3b18016-ce42-4cca-8f46-8a45c69954a7)
+![web103_filtering_m4](https://github.com/WEB103JobDash/JobDash/blob/main/client/public/assets/images/JobDash_filtering.gif)
 
 
 ### ✅ Notes for Each Application
