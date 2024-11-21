@@ -32,11 +32,12 @@ As a user, I want to log and manage my job applications in one place, so I can e
 
 ![JobDash Dashboard](https://github.com/WEB103JobDash/JobDash/blob/main/client/public/assets/images/Dashboard_GIF.png?raw=true)
 
-### Timeline of Applications
+### ✅ Timeline of Applications
 
 As a user, I want to view a visual timeline of my job applications, so I can see the progression of each application and when key events occurred.
 
-[gif goes here]
+![web103_timeline_m5](https://github.com/user-attachments/assets/258b6f5a-638e-4784-978c-d834d034b9e2)
+
 
 ### ✅ Analytics Overview
 
