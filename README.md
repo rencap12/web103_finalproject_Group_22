@@ -6,7 +6,7 @@ Designed and developed by: Reneca Capuno, Tanishq Todkar and Tripurashree Mysore
 
 Org Link (Private Dev Repo): https://github.com/orgs/WEB103JobDash/repositories
 
-🔗 Link to deployed app:
+🔗 Link to deployed app: 
 
 ## About
 
