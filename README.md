@@ -66,10 +66,7 @@ As a user, I want to update the status of my job applications (e.g., applied, in
 ![web103_applicStatus_m5](https://github.com/user-attachments/assets/68673922-2b1a-423a-a3c8-12a647548919)
 
 
-## Installation Instructions
+## Installation Instructions (based on Docker)
 
-### clone the repo, then:
-- in root, npm i
-- in client, npm i
-- in root, npm run dev
-- git fetch to get most recent work of all branches, then pull in desired local branch
+- clone repo
+- in root, "docker compose up"
