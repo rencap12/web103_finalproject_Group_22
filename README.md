@@ -67,4 +67,8 @@ As a user, I want to update the status of my job applications (e.g., applied, in
 
 ## Installation Instructions
 
-[instructions go here]
+### clone the repo, then:
+- in root, npm i
+- in client, npm i
+- in root, npm run dev
+- git fetch to get most recent work of all branches, then pull in desired local branch
