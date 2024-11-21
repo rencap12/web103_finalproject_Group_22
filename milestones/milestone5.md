@@ -11,7 +11,7 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 - [x] Update the status of issues in your project board as you complete them
 - [x] In `readme.md`, check off the features you have completed in this unit by adding a ✅ emoji in front of their title
   - [x] Under each feature you have completed, **include a GIF** showing feature functionality
-- [ ] In this document, complete the **Reflection** section below
+- [x] In this document, complete the **Reflection** section below
 - [ ] 🚩🚩🚩**Complete the Final Project Feature Checklist section below**, detailing each feature you completed in the project (ONLY include features you implemented, not features you planned)
 - [ ] 🚩🚩🚩**Record a GIF showing a complete run-through of your app** that displays all the components included in the **Final Project Feature Checklist** below
   - [ ] Include this GIF in the **Final Demo GIF** section below
@@ -32,7 +32,7 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
   - [x] A well-designed RESTful API
     - [x] The API can respond to at least one of each type of request: GET, POST, PATCH, and DELETE
     - [x] Routes follow proper naming conventions
-  - [ ] The ability to reset the database to its default state
+  - [x] The ability to reset the database to its default state
 - [x] The project includes these frontend-specific features:
   - [x] At least one redirection
   - [x] At least one interaction that the user can initiate and complete on the same page without navigating to a new page
@@ -77,20 +77,20 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+ Successfully implementing CRUD functionality and integrating a PostgreSQL database with the web application were significant milestones, showcasing teamwork and problem-solving skills.
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Debugging database connection issues and ensuring seamless functionality across all features, such as resetting tables without breaking the application, were challenging but helped us deepen our understanding of backend systems.
 
 ### 3. What were some of the highlights or achievements that you are most proud of in this project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We’re most proud of creating a fully functional job application tracker with an intuitive interface, database integration, and dynamic editing capabilities, all of which enhance usability
 
 ### 4. Reflecting on your web development journey so far, how have you grown since the beginning of the course?
 
-[👉🏾👉🏾👉🏾 your answer here]
+I’ve developed a stronger understanding of full-stack development, including API integration, database management, and frontend-backend communication, alongside improved problem-solving and collaboration skills.
 
 ### 5. Looking ahead, what are your goals related to web development, and what steps do you plan to take to achieve them?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Our goal is to build more complex, scalable web applications by mastering advanced backend frameworks and front-end libraries. We plan to achieve this by dedicating time to learning tools like React and Node.js in greater depth and potentially contributing to open-source projects.
