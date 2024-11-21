@@ -58,11 +58,12 @@ As a user, I want to add personal notes to each job application (e.g., interview
 ![web103_notesForApplic_m4](https://github.com/user-attachments/assets/babb0b4c-e6ea-49ee-a997-d7643c69744b)
 
 
-### Application Status Tracking
+### ✅ Application Status Tracking
 
-As a user, I want to update the status of my job applications (e.g., applied, interview, offer, rejection), so I can monitor the outcomes and understand where I stand with each position.
+As a user, I want to update the status of my job applications (e.g., applied, interview, offer, rejection, accepted), so I can monitor the outcomes and understand where I stand with each position.
 
-[gif goes here]
+![web103_applicStatus_m5](https://github.com/user-attachments/assets/68673922-2b1a-423a-a3c8-12a647548919)
+
 
 ## Installation Instructions
 
